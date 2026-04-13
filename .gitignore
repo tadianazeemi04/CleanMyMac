@@ -1,0 +1,13 @@
+## macOS ##
+.DS_Store
+
+## Xcode ##
+build/
+*.xcodeproj/userstyles.xml
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcscmblueprint
+
+## Swift Package Manager ##
+.build/
+.swiftpm/
